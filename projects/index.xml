@@ -17,7 +17,7 @@
       <pubDate>Mon, 19 Aug 2019 17:41:27 +0200</pubDate>
       
       <guid>/projects/prometeo/</guid>
-      <description>Prometeo Desktop Prometeo is a Windows desktop application, wrote in C#. It allows its user to exchange files and folders across the LAN in a peer-to-peer architectural model. Every user in the network that has the application can act both as a client and as a server. The actual exchange of data involves two stages. Initially, an UDP-based communication protocol is used to search other peers on the LAN, as well as to periodically signal its own presence.</description>
+      <description>Prometeo Desktop Prometeo is a Windows desktop application, written in C#. It allows its user to exchange files and folders across the LAN in a peer-to-peer architectural model. Every user in the network that has the application can act both as a client and as a server. The actual exchange of data involves two stages. Initially, an UDP-based communication protocol is used to search other peers on the LAN, as well as to periodically signal its own presence.</description>
     </item>
     
   </channel>
